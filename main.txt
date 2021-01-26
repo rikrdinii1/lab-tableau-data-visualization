@@ -1,1 +1,1 @@
-https://public.tableau.com/profile/ricardo8139#!/vizhome/9_Lab-tableau-data-visualization/TeamEffectiness
+https://public.tableau.com/profile/ricardo8139#!/vizhome/9_Lab-tableau-data-visualization/Dashboard1?publish=yes
